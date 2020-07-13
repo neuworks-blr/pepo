@@ -16,7 +16,7 @@ NOTE: This is responsive css of the template.
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
 	.welcome-text {
-		padding-top: 0px;
+		padding-top: 80px;
 	}
 	.welcome-text h1 {
 		font-size: 60px;
@@ -63,7 +63,7 @@ NOTE: This is responsive css of the template.
 		margin-bottom: 50px;
 	}
 	.welcome-text {
-		padding-top: 0px;
+		padding-top: 80px;
 		text-align: center;
 	}
 	.welcome-text h1 {
@@ -149,15 +149,16 @@ NOTE: This is responsive css of the template.
 		margin-bottom: 0;
 	}
 	.welcome-text {
-		padding-top: 80px;
+		padding-top: 40px;
 		text-align: center;
 	}
 	.welcome-text h1 {
-		font-size: 60px;
-		line-height: 60px;
+		font-size: 30px;
+		line-height: 30px;
 		margin-bottom: 10px;
 		font-weight: 700;
 	}
+
 	.welcome-text p {
 		color: #666;
 		font-size: 14px;
@@ -333,7 +334,7 @@ NOTE: This is responsive css of the template.
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	.welcome-text {
-		padding-top: 80px;
+		padding-top: 40px;
 	}
 	.welcome-text h1 {
 		font-size: 40px;

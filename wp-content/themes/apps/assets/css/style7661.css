@@ -301,7 +301,7 @@ a:hover {
 .home-area {
 	height: 100%;
 	position: relative;
-	background-size: cover;
+	background-size: 900;
 	z-index: 1;
 	overflow: hidden;
 }
